@@ -1,6 +1,7 @@
 //Bautista Cassani
 //Legajo: 85071/0
 //TP3; Ilusión Óptica: Patrón de Moiré adaptado
+//https://youtu.be/-1CL9SS0ecs
 
 //Carga del estado en el cual comienza el proyecto
 int estado = 0;
